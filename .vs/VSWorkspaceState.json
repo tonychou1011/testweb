@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\outputs",
+    "\\src\\ui",
+    "\\src\\ui\\components",
+    "\\src\\ui\\modules"
+  ],
+  "SelectedNode": "\\src\\ui\\modules\\InputSection.js",
+  "PreviewInSolutionExplorer": false
+}
